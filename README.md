@@ -5,6 +5,8 @@
 * Numpy
 * ScikitLearn (only for training data)
 * Matplotlib
+* Supervised Machine Learning
+* Linear Regression Models
 
 ### What the app can do
 
